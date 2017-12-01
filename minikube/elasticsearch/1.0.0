@@ -1,0 +1,2 @@
+FROM oucb/elasticsearch:1.0
+
