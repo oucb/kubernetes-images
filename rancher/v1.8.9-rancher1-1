@@ -1,0 +1,1 @@
+FROM rancher/k8s:v1.8.9-rancher1-1
